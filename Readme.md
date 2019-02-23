@@ -2,7 +2,6 @@
 
 vamos testar esse soft
 
-Ola meu nome é Rafael Lima Barros, tenho 21 anos :P
+Ola meu nome é Rafael Lima Barros, tenho 21 anos
 
-Gosto muito de bolo :D
-
+Teste de Push
